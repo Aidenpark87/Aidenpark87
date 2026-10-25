@@ -18,7 +18,7 @@ Backend-focused full-stack engineer building practical systems around API design
 - Backend architecture and API design
 - Authentication, OAuth, JWT, and session handling
 - Node.js / Express / Next.js
-- React / TypeScript
+- React 
 - Prisma / PostgreSQL
 
 ## Links
