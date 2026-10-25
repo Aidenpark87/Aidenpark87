@@ -1,12 +1,16 @@
 # Hi, I'm Soonchang 👋
 
+![GitHub followers](https://img.shields.io/github/followers/Aidenpark87?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Aidenpark87?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Aidenpark87&color=brightgreen)
+
 I’m a full-stack engineer learning by building practical backend systems, auth flows, and public projects that solve real problems.
 
 ## Featured project
 
 - [fullstack-blog](https://github.com/Aidenpark87/fullstack-blog) — Public notes and English translations of backend, auth, and API-focused engineering articles.
 
-## Recent writing
+## Latest writing
 
 - [Don’t Send the Authorization Code to the Frontend — Backend Callback, PKCE, and an httpOnly Cookie Session](https://github.com/Aidenpark87/fullstack-blog/blob/main/posts/2026-10-20-social-login-backend-callback-pkce-httponly-cookie-session.md)
 - [One Verification Script Instead of Dozens of `curl` Commands — `verify:api`](https://github.com/Aidenpark87/fullstack-blog/blob/main/posts/2026-10-19-verify-api-script.md)
@@ -21,7 +25,7 @@ I’m a full-stack engineer learning by building practical backend systems, auth
 - Prisma / PostgreSQL
 - API validation, security checks, and deployment verification
 
-## Links
+## Quick links
 
 - [GitHub](https://github.com/Aidenpark87)
 - [Tistory](https://aiden.tistory.com/)
