@@ -24,5 +24,5 @@ Backend-focused full-stack engineer building practical systems around API design
 ## Links
 
 - [GitHub](https://github.com/Aidenpark87)
-- [Blog](https://aiden.tistory.com/)
-- [fullstack-blog](https://github.com/Aidenpark87/fullstack-blog)
+- [Korean-Blog](https://aiden.tistory.com/)
+- [Fullstack-Blog](https://github.com/Aidenpark87/fullstack-blog)
