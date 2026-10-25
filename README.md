@@ -1,10 +1,11 @@
 # Hi, I'm Soonchang 👋
 
-Full-stack engineer focused on backend systems, authentication, and API reliability.
+Backend-focused full-stack engineer building practical systems around API design, authentication, and reliable deployments.
 
 ## Featured
 
 - [fullstack-blog](https://github.com/Aidenpark87/fullstack-blog) — Public engineering notes on backend systems, authentication, and API reliability.
+- [Tistory](https://aiden.tistory.com/) — Writing and learnings from real engineering work.
 
 ## Writing
 
@@ -23,5 +24,5 @@ Full-stack engineer focused on backend systems, authentication, and API reliabil
 ## Links
 
 - [GitHub](https://github.com/Aidenpark87)
-- [Tistory](https://aiden.tistory.com/)
+- [Blog](https://aiden.tistory.com/)
 - [fullstack-blog](https://github.com/Aidenpark87/fullstack-blog)
