@@ -1,14 +1,10 @@
 # Hi, I'm Soonchang 👋
 
-![GitHub followers](https://img.shields.io/github/followers/Aidenpark87?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Aidenpark87?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=Aidenpark87&color=brightgreen)
-
 I’m a full-stack engineer learning by building practical backend systems, auth flows, and public projects that solve real problems.
 
 ## Featured project
 
-- [fullstack-blog](https://github.com/Aidenpark87/fullstack-blog) — Public notes and English translations of backend, auth, and API-focused engineering articles.
+- [fullstack-blog](https://github.com/Aidenpark87/fullstack-blog) — Public engineering notes on backend systems, authentication, and API reliability.
 
 ## Latest writing
 
