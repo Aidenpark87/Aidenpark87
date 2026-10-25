@@ -1,4 +1,4 @@
-# Hi, I'm Aiden 👋
+# Hi, I'm Soonchang 👋
 
 I build practical full-stack systems focused on backend logic, authentication, API reliability, and small products that help real users.
 
