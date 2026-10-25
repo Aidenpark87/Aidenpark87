@@ -1,10 +1,10 @@
 # Hi, I'm Soonchang 👋
 
-I build practical full-stack systems focused on backend logic, authentication, API reliability, and small products that help real users.
+I’m a full-stack engineer learning by building practical backend systems, auth flows, and public projects that solve real problems.
 
 ## Featured project
 
-- [fullstack-blog](https://github.com/Aidenpark87/fullstack-blog) — English versions of selected backend and auth articles, published in public.
+- [fullstack-blog](https://github.com/Aidenpark87/fullstack-blog) — Public notes and English translations of backend, auth, and API-focused engineering articles.
 
 ## Recent writing
 
@@ -14,11 +14,12 @@ I build practical full-stack systems focused on backend logic, authentication, A
 
 ## What I focus on
 
+- Backend architecture and API design
+- Authentication, OAuth, JWT, and session handling
 - Node.js / Express / Next.js
 - React / TypeScript
 - Prisma / PostgreSQL
-- Authentication and OAuth / JWT
-- API testing, security checks, and deployment verification
+- API validation, security checks, and deployment verification
 
 ## Links
 
@@ -28,4 +29,4 @@ I build practical full-stack systems focused on backend logic, authentication, A
 
 ## Current direction
 
-I’m learning by shipping small, public, working systems and documenting the decisions behind them.
+I’m learning by shipping small, public, working systems and documenting the decisions behind them so I can grow through real implementation.
