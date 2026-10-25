@@ -1,4 +1,4 @@
-# Hi, I'm Soonchang 👋
+# Hi, I'm Soonchang 
 
 Backend-focused full-stack engineer building practical systems around API design, authentication, and reliable deployments.
 
